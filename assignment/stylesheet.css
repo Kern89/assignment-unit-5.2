@@ -1,11 +1,7 @@
 header {
     background-color: black;
-    color: lavender;
-    text-align: center;
 }
-
 main {
-    background-color: lightgrey;
     padding: 1em;
 }
 
@@ -13,4 +9,11 @@ body {
     background-image: url("record.png");
     background-repeat: space repeat;
     margin: 0;
+}
+.center {
+    text-align: center;
+    color: lavender;
+}
+#lightColor {
+    background-color: lightgrey;
 }
